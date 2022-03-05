@@ -7,7 +7,7 @@ public class Arreglos {
     // LENGTH LENGHT
     System.out.println("FOR NORMAL");
     for (int indice = 0; indice < edades.length; indice = indice + 1) {
-      if (indice % 2 == 0) {
+      if (indice % 3 == 0) {
         edades[indice] = 100 * indice;
       }
 
