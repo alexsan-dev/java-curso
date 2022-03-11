@@ -3,6 +3,8 @@ public class Main {
     // new Variables();
     // new Condicionales();
     // new Cilclos();
-    new Arreglos();
+    // new Arreglos();
+    // new Matrices();
+    new Funciones();
   }
 }
