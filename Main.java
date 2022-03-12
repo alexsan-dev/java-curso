@@ -2,9 +2,10 @@ public class Main {
   public static void main(String[] args) {
     // new Variables();
     // new Condicionales();
-    // new Cilclos();
+    // new Ciclos();
     // new Arreglos();
     // new Matrices();
-    new Funciones();
+    // new Funciones();
+    new Clases();
   }
 }
